@@ -63,7 +63,7 @@ print(" Bot Experto en Carros  (escribe 'salir' para terminar)\n")
 while True:
     user_input = input("Tú: ")  # El usuario escribe su mensaje
     if user_input.lower() == "salir":  # Condición de salida
-        print("Bot: ¡Hasta luego, maneja con cuidado! 🚦")
+        print("Bot: ¡Hasta luego, maneja con cuidado! ")
         break  # Se rompe el ciclo para terminar el chat
 
     # El bot genera una respuesta
